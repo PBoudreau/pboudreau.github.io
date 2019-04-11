@@ -1,0 +1,13 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "UR8P7NG5SM.com.firstam.clarityfirst",
+            "paths": ["*"]
+            },
+            {
+            "appID": "UR8P7NG5SM.com.firstam.clarityfirst.qa",
+            "paths": ["*"]
+        }]
+    }
+}
